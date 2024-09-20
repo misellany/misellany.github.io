@@ -28,7 +28,7 @@ This portfolio showcases my experience with various technologies, including but 
 
 ### Get in Touch
 
-I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out if you'd like to discuss technology, product development, or potential projects.
+I'm always open to interesting conversations and collaboration opportunities. Feel free to reach out if you'd like to discuss technology, product management, or potential side projects.
 
 - LinkedIn: [EO's LinkedIn Profile](https://www.linkedin.com/in/misellany/)
 - GitHub: [EO's GitHub Profile](https://github.com/eoray)
